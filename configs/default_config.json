@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "test_size": 0.3,
+  "val_size_from_temp": 0.5,
+  "timegan_epochs": 500,
+  "lstm_epochs": 300,
+  "batch_size": 32,
+  "tsne_perplexity": 30,
+  "expected_time_steps": 5,
+  "generated_train_file": "260314_Train_Augmented_Final.csv",
+  "generated_val_file": "260314_Val_Original.csv",
+  "generated_test_file": "260314_Test_Original.csv"
+}

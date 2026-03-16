@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Delirium Prediction Pipeline (Leakage-Free Dynamic Model)"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Jungmin"
+    given-names: "You"
+repository-code: "https://github.com/ToBeUpdated/ToBeUpdated"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-03-14"
+abstract: >-
+  Modular codebase for leakage-free delirium prediction with TimeGAN and
+  DTW-SMOTE augmentation, multi-task soft-gated LSTM modeling, and fidelity
+  analyses.
+keywords:
+  - delirium
+  - time-series
+  - data-augmentation
+  - timegan
+  - dtw-smote
+  - lstm
